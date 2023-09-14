@@ -21,6 +21,8 @@ Esta herramienta debe usarse de manera ética y responsable. No abuses de esta h
 
 ## Preview
 ![Imagen 1](https://i.imgur.com/6kPeOqq.png)
-
+![Imagen 3](https://i.imgur.com/DOemqJH.png)
+![Imagen 4](https://i.imgur.com/GWD013E.png)
+![Imagen 5](https://i.imgur.com/2yHWCco.png)
 ## Exit
 ![Imagen 2](https://i.imgur.com/o4h23CI.png)
