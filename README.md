@@ -19,10 +19,12 @@ Este es un script en Python que te permite enviar mensajes a través de webhooks
 
 Esta herramienta debe usarse de manera ética y responsable. No abuses de esta herramienta para enviar spam o realizar actividades maliciosas. El uso inapropiado puede resultar en la suspensión de tu cuenta de Discord u otras consecuencias legales.
 
-## Preview
+## Preview - 🍩
+A continuación, se muestra una vista previa de esta herramienta:
+
 ![Imagen 1](https://i.imgur.com/6kPeOqq.png)
 ![Imagen 3](https://i.imgur.com/DOemqJH.png)
 ![Imagen 4](https://i.imgur.com/GWD013E.png)
 ![Imagen 5](https://i.imgur.com/2yHWCco.png)
-## Exit
+## Exit - 🖤
 ![Imagen 2](https://i.imgur.com/o4h23CI.png)
