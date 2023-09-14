@@ -159,7 +159,7 @@ while True:
 {Fore.RED}                                                 ||----w |
 {Fore.RED}                                                 ||     ||
       
-{Fore.RED}                                          By 23Savage | ilvvvx
+{Fore.RED}                                          By 23Savage | eternalenvy._
 
 {Fore.RED}                                        [1] Discord WebHook Sender
 {Fore.RED}                                        [2] WebHook Spammer
